@@ -1,4 +1,4 @@
-# selenium_demos
+# an automatic book downloader in selenium
 this repo contains selenium demos  using geckodriver
 ## requirments
 - Install Selenium  
