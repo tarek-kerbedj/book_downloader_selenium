@@ -1,5 +1,6 @@
 # an automatic book downloader in selenium
-this repo contains selenium demos  using geckodriver
+
+
 ## requirments
 - Install Selenium  
 ```
@@ -7,7 +8,7 @@ pip install selenium
 ```
 - Mozilla firefox browser https://www.mozilla.org/en-US/firefox/new/
 - download geckodriver https://github.com/mozilla/geckodriver/releases
-# Disclaimer : This script is for educational purposes only and is only meant to clarify how Selenium works , downloading copywrited materials is illegal.
+
 ## instructions
 - run it using 
  ```
@@ -18,3 +19,5 @@ python book_downloder.py
 
 ### PS : you might need to change the download settings in firefox in case the download dialogue pops up and crashes the program
 https://support.mozilla.org/en-US/kb/change-firefox-behavior-when-open-file
+
+# Disclaimer : This script is for educational purposes only and is only meant to clarify how Selenium works , downloading copywrited materials is illegal.
