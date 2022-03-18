@@ -20,4 +20,7 @@ python book_downloder.py
 ### PS : you might need to change the download settings in firefox in case the download dialogue pops up and crashes the program
 https://support.mozilla.org/en-US/kb/change-firefox-behavior-when-open-file
 
-# Disclaimer : This script is for educational purposes only and is only meant to clarify how Selenium works , downloading copywrited materials is illegal.
+
+
+
+
