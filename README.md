@@ -1,5 +1,5 @@
 # an automatic book downloader in selenium
-
+# UPDATE : Z-lib is down and this script will no longer work
 
 ## requirments
 - Install Selenium  
